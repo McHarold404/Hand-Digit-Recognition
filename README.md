@@ -7,4 +7,5 @@ The objective of this project was to build a model to identify and classify imag
 
 3.A residual net with 50 layers.
 
+
  All this was done in order to observe the increase in accuracy with the addition of more accurate and sophisticated ML methods.
